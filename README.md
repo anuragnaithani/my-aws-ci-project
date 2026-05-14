@@ -371,7 +371,7 @@ http://3.81.13.191:5000
 Output:
 
 ```text
-Hello Anurag DevOps Project
+ Anurag DevOps Project
 ```
 
 ---
@@ -417,19 +417,7 @@ During this project, several real DevOps troubleshooting scenarios were solved:
 * Missing appspec.yml
 * EC2 IAM role issues
 * Docker container deployment issues
-
----
-
-# Create README Using cat Command
-
-```bash
-cat > README.md <<'EOF'
-# Paste the complete README content here
-EOF
-```
-
-You can copy the complete README content from this document and paste it between `EOF` and `EOF` in your terminal.
-
+  
 ---
 
 # Conclusion
